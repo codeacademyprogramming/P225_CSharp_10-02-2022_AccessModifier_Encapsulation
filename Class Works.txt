@@ -1,0 +1,62 @@
+1. Verilmiş Ədədin Cüt Və ya Tək Olduğunu Tapan Alqoritm. Cütdürsə Ekrana Yazdırsın Cütdür Deyilsə Təkdir Yazdırsın.
+
+2. 3 ədəd arasında böyüyü tapmaq alqoritmini qurun.
+
+3. 5 ədədin orta qiymətinin tapılması algorithmini qurun.
+
+4. İstifadəçi hər hansısa ədəd daxil edir. Ədəd 5dən azdırsa üstünə bir gəlir və yoxlama yenidən baş verir. Bu əməliyyat ədəd 5ə çatana kimi davam edir. Ədəd 5ə bərabər olarsa ekrana "Carpe diem" sözü çıxsın.
+
+5. "Hello world" sözünü 10 dəfə çap edən algorithmi qurun.
+
+6. 50-ə qədər olan cüt ədədlərin cəmini hesablayan algorithmi qurun.
+
+7. Array-də(minimum 5 element olsun) cüt ədədlərlə tək ədədlərin fərqini tapan algorithmi qurun;
+
+8. Array-də(minimum 5 element olsun) 3 rəqəmli ədədlərlə digər ədədlər arasındakı fərqi tapan algorithmi qurun;
+
+9. Array-i(minimum 5 element olsun) tərsinə çevirən(reverse) algorithmi qurun(Misal: [10, 45, 32, 48, 72] => [72, 48, 32, 45, 10]);
+
+10. 2 arrayımız var. Birinci arrayda olan və eynizamanda ikincidə olmayan bütün elementləri print edin. . Misal üçün: numbers1 = [4, 5, 2, 6, 4, 3] numbers2 = [7, 4, 2, 76, 45, 65] Output-da yalnız 5, 6 və 3 olmalıdır.
+
+11. Array-də(minimum 5 element olsun) cut index-də duran elementlərin ededi ortasini tapmaq;
+
+12. String Tipinde Data Qebul Edib Stringi Tersine Ceviren String Seklinde Qaytaran Method Yaz misal: Salam Qrup Uzvler >> malaS-purQ-relvzU;
+
+13. 
+Vehicle Adinda class Yaradirsiniz Asagidaki Memberleri Olsun:
+
+Color
+Year
+
+Qeyd: Buraxilis ili teyin olunmamis Vehicle ola bilmez
+
+
+
+Car : Vehice (Car Adinda Class Yaradirsiniz Vehicle Classindan Miras Almalidi ve Asagidaki Memberleri Olsun)
+
+Brand
+
+Model
+
+FuelCapacity
+
+FuelFor1Km
+
+CurrentFuel
+
+ShowInfo() - mecburi deyil
+
+AddFuel()- parameter olaraq nece litr elave etmek istenildiyi gonderilir
+
+Drive() - parametr nece km gedileceyini ps: Modeli, brandi,FuelFor1km, FuelCapacity teyin olunmamis Car obyekti ola bilmez
+
+14.
+Asagidaki member-lerden ibaret User class-i yaradin:
+
+UserName - istifadeci adini ifade edir
+Password - istifadeci sifresini ifade edir
+
+UserName deyeri teyin olunmamis User obyekti yaradila bilinmemelidir. UserName deyerinin uzunlugu minimum 8 olmalidr.
+Password deyerinin uzunlugu minimum 8 olmalidir ve icinde en az 1 boyuk herf,1 kicik herf ve 1 reqem olmalidir.Eks teqdirde password deyeri set oluna bilinmemelidir.
+
+Layihe run olduqda console penceresinden isitfadeciden username daxil etmesi istenilmelidir.Eger daxil edilen username UserName memberinin sertlerini odemirse istifadeciden yeniden username daxil etmesi istenilmelidir (duz yazanadek bu proses davam etmelidir).Daha sonra console penceresinden password deyerini daxil etmesi istenilmelidir.Eger daxil edilen deyern Password memberinin sertlerini odemirse yeniden daxil edilmesi istenilmelidir ta ki duz yazana qeder.Her iki deyer duz olduqdan sonra User obyekti yaradilir. (Encapsulatin tetqibi mutleqdir !)

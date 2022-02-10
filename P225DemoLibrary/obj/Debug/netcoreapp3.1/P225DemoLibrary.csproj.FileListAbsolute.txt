@@ -1,0 +1,9 @@
+C:\Users\memme\Desktop\P225\Task\P225DemoLibrary\bin\Debug\netcoreapp3.1\P225DemoLibrary.deps.json
+C:\Users\memme\Desktop\P225\Task\P225DemoLibrary\bin\Debug\netcoreapp3.1\P225DemoLibrary.dll
+C:\Users\memme\Desktop\P225\Task\P225DemoLibrary\bin\Debug\netcoreapp3.1\P225DemoLibrary.pdb
+C:\Users\memme\Desktop\P225\Task\P225DemoLibrary\obj\Debug\netcoreapp3.1\P225DemoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\Desktop\P225\Task\P225DemoLibrary\obj\Debug\netcoreapp3.1\P225DemoLibrary.AssemblyInfoInputs.cache
+C:\Users\memme\Desktop\P225\Task\P225DemoLibrary\obj\Debug\netcoreapp3.1\P225DemoLibrary.AssemblyInfo.cs
+C:\Users\memme\Desktop\P225\Task\P225DemoLibrary\obj\Debug\netcoreapp3.1\P225DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P225\Task\P225DemoLibrary\obj\Debug\netcoreapp3.1\P225DemoLibrary.dll
+C:\Users\memme\Desktop\P225\Task\P225DemoLibrary\obj\Debug\netcoreapp3.1\P225DemoLibrary.pdb

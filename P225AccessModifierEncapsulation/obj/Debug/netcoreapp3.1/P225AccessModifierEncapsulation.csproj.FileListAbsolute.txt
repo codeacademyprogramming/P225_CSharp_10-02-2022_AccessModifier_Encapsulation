@@ -1,0 +1,17 @@
+C:\Users\memme\Desktop\P225\Task\P225AccessModifierEncapsulation\bin\Debug\netcoreapp3.1\P225AccessModifierEncapsulation.exe
+C:\Users\memme\Desktop\P225\Task\P225AccessModifierEncapsulation\bin\Debug\netcoreapp3.1\P225AccessModifierEncapsulation.deps.json
+C:\Users\memme\Desktop\P225\Task\P225AccessModifierEncapsulation\bin\Debug\netcoreapp3.1\P225AccessModifierEncapsulation.runtimeconfig.json
+C:\Users\memme\Desktop\P225\Task\P225AccessModifierEncapsulation\bin\Debug\netcoreapp3.1\P225AccessModifierEncapsulation.runtimeconfig.dev.json
+C:\Users\memme\Desktop\P225\Task\P225AccessModifierEncapsulation\bin\Debug\netcoreapp3.1\P225AccessModifierEncapsulation.dll
+C:\Users\memme\Desktop\P225\Task\P225AccessModifierEncapsulation\bin\Debug\netcoreapp3.1\P225AccessModifierEncapsulation.pdb
+C:\Users\memme\Desktop\P225\Task\P225AccessModifierEncapsulation\obj\Debug\netcoreapp3.1\P225AccessModifierEncapsulation.csproj.AssemblyReference.cache
+C:\Users\memme\Desktop\P225\Task\P225AccessModifierEncapsulation\obj\Debug\netcoreapp3.1\P225AccessModifierEncapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\Desktop\P225\Task\P225AccessModifierEncapsulation\obj\Debug\netcoreapp3.1\P225AccessModifierEncapsulation.AssemblyInfoInputs.cache
+C:\Users\memme\Desktop\P225\Task\P225AccessModifierEncapsulation\obj\Debug\netcoreapp3.1\P225AccessModifierEncapsulation.AssemblyInfo.cs
+C:\Users\memme\Desktop\P225\Task\P225AccessModifierEncapsulation\obj\Debug\netcoreapp3.1\P225AccessModifierEncapsulation.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P225\Task\P225AccessModifierEncapsulation\obj\Debug\netcoreapp3.1\P225AccessModifierEncapsulation.dll
+C:\Users\memme\Desktop\P225\Task\P225AccessModifierEncapsulation\obj\Debug\netcoreapp3.1\P225AccessModifierEncapsulation.pdb
+C:\Users\memme\Desktop\P225\Task\P225AccessModifierEncapsulation\obj\Debug\netcoreapp3.1\P225AccessModifierEncapsulation.genruntimeconfig.cache
+C:\Users\memme\Desktop\P225\Task\P225AccessModifierEncapsulation\bin\Debug\netcoreapp3.1\P225DemoLibrary.dll
+C:\Users\memme\Desktop\P225\Task\P225AccessModifierEncapsulation\bin\Debug\netcoreapp3.1\P225DemoLibrary.pdb
+C:\Users\memme\Desktop\P225\Task\P225AccessModifierEncapsulation\obj\Debug\netcoreapp3.1\P225AccessModifierEncapsulation.csproj.CopyComplete
